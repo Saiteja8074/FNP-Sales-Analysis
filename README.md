@@ -1,12 +1,10 @@
-# 🌸 Ferns and Petals — Sales Analysis Dashboard
+# Ferns and Petals — Sales Analysis Dashboard
 
 ### An end-to-end data analytics project uncovering sales trends, customer behavior, and product performance for India's leading gifting platform.
 
-</div>
-
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 **Ferns and Petals (FNP)** is one of India's most recognized gifting brands, delivering flowers, cakes, sweets, soft toys, and custom gift hampers for occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
 
@@ -27,7 +25,7 @@ This project performs a comprehensive sales analysis on FNP's 2023 transaction d
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 **File:** `fnp_sales.xlsx`
 
@@ -54,23 +52,19 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-## 📊 Key Performance Indicators
+## Key Performance Indicators
 
-<div align="center">
-
-| 🧾 Total Orders | 💰 Total Revenue | ⏱ Avg. Delivery Time | 👤 Avg. Customer Spend |
+| Total Orders | Total Revenue | Avg. Delivery Time | Avg. Customer Spend |
 |:---:|:---:|:---:|:---:|
-| **1,000** | **₹35,20,984** | **5.53 days** | **₹3,520.98** |
+| **1,000** | **Rs. 35,20,984** | **5.53 days** | **Rs. 3,520.98** |
 
-| 🛍 Unique Products | 🏙 Cities Served | 👥 Unique Customers | 💲 Avg. Product Price |
+| Unique Products | Cities Served | Unique Customers | Avg. Product Price |
 |:---:|:---:|:---:|:---:|
-| **70** | **301** | **100** | **₹1,129.84** |
-
-</div>
+| **70** | **301** | **100** | **Rs. 1,129.84** |
 
 ---
 
-## 🖥 Dashboard Preview
+## Dashboard Preview
 
 > Built entirely in **Microsoft Excel** with dynamic slicers, pivot charts, and KPI cards.
 
@@ -91,36 +85,36 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
-### 1. 📅 Monthly Sales Performance
+### 1. Monthly Sales Performance
 
-| Month | Revenue (₹) | Trend |
+| Month | Revenue (Rs.) | Trend |
 |---|---|---|
-| January | 95,468 | 🔻 Low |
-| **February** | **7,04,509** | 🔺 Peak — Valentine's Day |
-| March | 5,11,823 | 📈 High — Holi |
-| April | 1,40,393 | ➡ Moderate |
-| May | 1,50,346 | ➡ Moderate |
-| June | 1,57,913 | ➡ Moderate |
-| July | 1,35,826 | 🔻 Low |
-| **August** | **7,37,389** | 🔺 Peak — Raksha Bandhan |
-| September | 1,36,938 | 🔻 Low |
-| October | 1,51,619 | ➡ Moderate |
-| November | 4,49,169 | 📈 High — Diwali |
-| December | 1,49,591 | ➡ Moderate |
+| January | 95,468 | Low |
+| **February** | **7,04,509** | Peak — Valentine's Day |
+| March | 5,11,823 | High — Holi |
+| April | 1,40,393 | Moderate |
+| May | 1,50,346 | Moderate |
+| June | 1,57,913 | Moderate |
+| July | 1,35,826 | Low |
+| **August** | **7,37,389** | Peak — Raksha Bandhan |
+| September | 1,36,938 | Low |
+| October | 1,51,619 | Moderate |
+| November | 4,49,169 | High — Diwali |
+| December | 1,49,591 | Moderate |
 
 > **Insight:** Revenue is highly seasonal. **August** and **February** are the standout peaks driven by Raksha Bandhan and Valentine's Day respectively. January, July, and September are trough months — ideal windows for running promotional campaigns to smooth out revenue dips.
 
 ---
 
-### 2. 🎉 Revenue by Occasion
+### 2. Revenue by Occasion
 
-| Rank | Occasion | Revenue (₹) | Share |
+| Rank | Occasion | Revenue (Rs.) | Share |
 |---|---|---|---|
-| 🥇 | Anniversary | 6,74,634 | 19.2% |
-| 🥈 | Raksha Bandhan | 6,31,585 | 17.9% |
-| 🥉 | All Occasions | 5,86,176 | 16.6% |
+| 1 | Anniversary | 6,74,634 | 19.2% |
+| 2 | Raksha Bandhan | 6,31,585 | 17.9% |
+| 3 | All Occasions | 5,86,176 | 16.6% |
 | 4 | Holi | 5,74,682 | 16.3% |
 | 5 | Birthday | 4,08,194 | 11.6% |
 | 6 | Valentine's Day | 3,31,930 | 9.4% |
@@ -130,23 +124,23 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-### 3. 🏆 Top 5 Products by Revenue
+### 3. Top 5 Products by Revenue
 
-| Rank | Product | Revenue (₹) |
+| Rank | Product | Revenue (Rs.) |
 |---|---|---|
-| 🥇 | Magnam Set | 1,21,905 |
-| 🥈 | Quia Gift | 1,14,476 |
-| 🥉 | Dolores Gift | 1,06,624 |
+| 1 | Magnam Set | 1,21,905 |
+| 2 | Quia Gift | 1,14,476 |
+| 3 | Dolores Gift | 1,06,624 |
 | 4 | Harum Pack | 1,01,556 |
 | 5 | Deserunt Box | 97,665 |
 
-> **Insight:** The top 5 products generate **₹5,42,226** — approximately **15.4%** of total revenue. These are strong candidates for homepage features, bundle promotions, and inventory priority ahead of peak seasons.
+> **Insight:** The top 5 products generate **Rs. 5,42,226** — approximately **15.4%** of total revenue. These are strong candidates for homepage features, bundle promotions, and inventory priority ahead of peak seasons.
 
 ---
 
-### 4. 📦 Revenue by Category
+### 4. Revenue by Category
 
-| Category | Revenue (₹) | Share |
+| Category | Revenue (Rs.) | Share |
 |---|---|---|
 | Colors | 10,05,645 | 28.6% |
 | Soft Toys | 7,40,831 | 21.0% |
@@ -160,7 +154,7 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-### 5. 🏙 Top 10 Cities by Number of Orders
+### 5. Top 10 Cities by Number of Orders
 
 | Rank | City | Orders |
 |---|---|---|
@@ -179,20 +173,20 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-### 6. 👤 Customer Spending Analysis
+### 6. Customer Spending Analysis
 
 | Metric | Value |
 |---|---|
-| Average Order Value (AOV) | ₹3,520.98 |
-| Average Product Price | ₹1,129.84 |
-| Product Price Range | ₹203 – ₹1,977 |
-| AOV-to-Price Ratio | ~3.1× |
+| Average Order Value (AOV) | Rs. 3,520.98 |
+| Average Product Price | Rs. 1,129.84 |
+| Product Price Range | Rs. 203 – Rs. 1,977 |
+| AOV-to-Price Ratio | ~3.1x |
 
-> **Insight:** The average order value (₹3,521) is nearly **3× the average product price** (₹1,130), indicating customers typically order multiple items or larger quantities per transaction. This is a strong signal to design curated hampers and "buy more, save more" bundle offers to further lift AOV.
+> **Insight:** The average order value (Rs. 3,521) is nearly **3x the average product price** (Rs. 1,130), indicating customers typically order multiple items or larger quantities per transaction. This is a strong signal to design curated hampers and "buy more, save more" bundle offers to further lift AOV.
 
 ---
 
-### 7. 📦 Order Quantity vs. Delivery Time
+### 7. Order Quantity vs. Delivery Time
 
 | Metric | Value |
 |---|---|
@@ -203,9 +197,9 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-### 8. 🎁 Product Popularity by Occasion
+### 8. Product Popularity by Occasion
 
-| Occasion | Top-Selling Product | Revenue (₹) |
+| Occasion | Top-Selling Product | Revenue (Rs.) |
 |---|---|---|
 | All Occasions | Magnam Set | 1,21,905 |
 | Anniversary | Dignissimos Pack | 90,036 |
@@ -219,7 +213,7 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -228,21 +222,21 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 fnp-sales-analysis/
 │
-├── 📄 Dataset                                  # Raw Dataset        
-├── 📊 fnp_sales.xlsx                          # Cleaned Dataset + Excel Dashboard
-├── 🖼 fnp_dashboard.png                       # Dashboard screenshot
-├── 📄 Ferns_and_Petals_Sales_Analysis.pdf     # Problem statement
-└── 📝 README.md                               # This file
+├── Dataset                                  # Raw Dataset        
+├── fnp_sales.xlsx                           # Cleaned Dataset + Excel Dashboard
+├── fnp_dashboard.png                        # Dashboard screenshot
+├── Ferns_and_Petals_Sales_Analysis.pdf      # Problem statement
+└── README.md                                # This file
 ```
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **Explore the Excel Dashboard:**
 
@@ -259,7 +253,7 @@ open fnp_sales.xlsx    # or double-click to open in Excel
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 | # | Finding | Recommendation |
 |---|---|---|
@@ -269,14 +263,10 @@ open fnp_sales.xlsx    # or double-click to open in Excel
 | 4 | Colors category dominates at 29% revenue share | Expand SKUs in this category; create occasion-specific color gift sets |
 | 5 | Tier 2 cities lead in order volume | Optimize last-mile logistics and explore regional fulfilment centres |
 | 6 | Order quantity has no effect on delivery time | Leverage as a trust signal — "Fast delivery, any order size" |
-| 7 | Avg order value is 3× the avg product price | Push curated gift hampers and multi-item bundles to lift AOV further |
+| 7 | Avg order value is 3x the avg product price | Push curated gift hampers and multi-item bundles to lift AOV further |
 
 ---
 
-<div align="center">
-
-**⭐ If you found this project helpful, consider giving it a star!**
-
-*Made with 💚 and data — for smarter gifting decisions.*
+*Made with data — for smarter gifting decisions.*
 
 </div>
