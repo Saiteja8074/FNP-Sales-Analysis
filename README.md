@@ -222,51 +222,6 @@ Customers → Customer_ID, Name, City, Gender, Email
 
 ---
 
-## File Structure
-
-```
-fnp-sales-analysis/
-│
-├── Dataset                                  # Raw Dataset        
-├── fnp_sales.xlsx                           # Cleaned Dataset + Excel Dashboard
-├── fnp_dashboard.png                        # Dashboard screenshot
-├── Ferns_and_Petals_Sales_Analysis.pdf      # Problem statement
-└── README.md                                # This file
-```
-
----
-
-## How to Run
-
-**Explore the Excel Dashboard:**
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/saiteja9505/FNP-Sales-Analysis.git
-
-# 2. Open the workbook
-cd fnp-sales-analysis
-open fnp_sales.xlsx    # or double-click to open in Excel
-```
-
-> Navigate to the **Dashboard** sheet. Use the **Occasion** and **Order Date** slicers on the right panel to filter all charts dynamically.
-
----
-
-## Key Takeaways
-
-| # | Finding | Recommendation |
-|---|---|---|
-| 1 | August & February are peak revenue months | Ramp up inventory, staffing, and ad spend ahead of these periods |
-| 2 | Diwali underperforms relative to its cultural significance | Invest in targeted Diwali campaigns and exclusive product launches |
-| 3 | Top 5 products drive ~15% of total revenue | Feature these prominently on the homepage and in retargeting ads |
-| 4 | Colors category dominates at 29% revenue share | Expand SKUs in this category; create occasion-specific color gift sets |
-| 5 | Tier 2 cities lead in order volume | Optimize last-mile logistics and explore regional fulfilment centres |
-| 6 | Order quantity has no effect on delivery time | Leverage as a trust signal — "Fast delivery, any order size" |
-| 7 | Avg order value is 3x the avg product price | Push curated gift hampers and multi-item bundles to lift AOV further |
-
----
-
 *Made with data — for smarter gifting decisions.*
 
 </div>
